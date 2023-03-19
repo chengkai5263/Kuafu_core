@@ -1,0 +1,25 @@
+2023-03-09 11:02:28,490 - clear_model - INFO - 260 - 17160 - 11436: main process starts to set cron jobs and run....
+2023-03-09 11:06:54,868 - clear_model - INFO - 260 - 23200 - 22968: main process starts to set cron jobs and run....
+2023-03-09 11:07:50,580 - clear_model - INFO - 258 - 20468 - 4732: main process starts to set cron jobs and run....
+2023-03-09 11:07:54,702 - tools - ERROR - 57 - 20468 - 24024: serial_tasks_feature_parameter_ensemble error: 
+Traceback (most recent call last):
+  File "D:\Users\67436\anaconda3\envs\kuafupy38\lib\site-packages\pymysql\connections.py", line 613, in connect
+    sock = socket.create_connection(
+  File "D:\Users\67436\anaconda3\envs\kuafupy38\lib\socket.py", line 808, in create_connection
+    raise err
+  File "D:\Users\67436\anaconda3\envs\kuafupy38\lib\socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Kuafu_20230308\common\tools.py", line 51, in wrapper
+    return func(*args, **kwargs)
+  File "F:/Kuafu_20230308/clear_model.py", line 55, in clear_model
+    db = pymysql.connect(host=host, user=user, password=password, database=database, charset=charset, port=port)
+  File "D:\Users\67436\anaconda3\envs\kuafupy38\lib\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "D:\Users\67436\anaconda3\envs\kuafupy38\lib\site-packages\pymysql\connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] 由于目标计算机积极拒绝，无法连接。)")

@@ -1,0 +1,160 @@
+current time: 2023/03/17 09:13
+setting test time: start_time: 2021/01/01 00:00; end_time: 2022/06/30 00:00
+51002The actual data volume in the set period is: 544days; missing data rate: 0.11%
+51002actual test time: start_time: 2021/01/01 00:00; end_time: 2022/06/30 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:14
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:26
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:29
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:31
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:37
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:43
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:46
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:51
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 09:56
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,85.82191006635605,81.41564616665701
+current time: 2023/03/17 10:03
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,85.82191006635605,81.41564616665701
+current time: 2023/03/17 10:07
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+current time: 2023/03/17 15:01
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/17 15:13
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+current time: 2023/03/18 14:29
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,0.0,0.0
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,0.0,0.0
+current time: 2023/03/18 14:41
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,85.82191006635605,81.41564616665701
+current time: 2023/03/18 14:47
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,85.82191006635605,81.41564616665701
+current time: 2023/03/18 14:49
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+52003The actual data volume in the set period is: 120days; missing data rate: 0.0%
+52003actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"52003short_usecols: ['SR', 'RHU_meter', 'SWDDIR', 'TCC', 'HCC']"
+52003 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,72.23540870206374,71.25224144902089
+52003 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,90.21714091397453,91.46237887523412
+current time: 2023/03/18 15:03
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+51002The actual data volume in the set period is: 120days; missing data rate: 0.0%
+51002actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"51002short_usecols: ['WS', 'UU_hpa_700', 'WD', 'UU_hpa_500', 'RHU_meter']"
+51002 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,49.871797690809046,35.12379559477571
+51002 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,85.82191006635605,81.41564616665701
+current time: 2023/03/18 15:06
+setting test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+52003The actual data volume in the set period is: 120days; missing data rate: 0.0%
+52003actual test time: start_time: 2022/01/01 00:00; end_time: 2022/05/01 00:00
+"task1: only ensemble: feature N, parameter N, ensemble Y"
+"52003short_usecols: ['SR', 'RHU_meter', 'SWDDIR', 'TCC', 'HCC']"
+52003 Two_Detailed_Rules short predict accuracy:
+,BPNN,MFFS
+_without_history_power,72.23540870206374,71.25224144902089
+52003 GB_T_40607_2021 short predict accuracy:
+,BPNN,MFFS
+_without_history_power,90.21714091397453,91.46237887523412
